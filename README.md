@@ -15,7 +15,7 @@ ROUTER_II (config)#ip route 192.168.2.0 255.255.255.0 10.10.10.1
 ROUTER_II (config)#ip route 192.168.40.0 255.255.255.0 10.20.10.2
 ROUTER_II (config)#show ip route
 ```
-![4](5.jpg)
+![4](4.jpg)
 ![5](5.jpg)
 #### Router 3 
 ```
